@@ -56,6 +56,18 @@ html,
   /* 7 */
 }
 
+body { background-color: #005278; }
+
+#b_492035_1_170852066165d5f4d5a5c7a {
+  display: none;
+}
+
+.carousel-container {
+  overflow-x: hidden;
+  /* Hide overflow on horizontal axis */
+  position: relative;
+}
+
 /*
 1. Remove the margin in all browsers.
 2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.
